@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89474EEE-27EE-4404-953B-B7981F495DCC}|Client_\\Client_.csproj|i:\\l\u1EADp tr\u00ECnh m\u1EA1ng\\th\u1EF1c h\u00E0nh\\nt106.o22_group17\\tcp_multichat\\client_\\client_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89474EEE-27EE-4404-953B-B7981F495DCC}|Client_\\Client_.csproj|solutionrelative:client_\\client_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9620339-D32C-4262-8E2C-4470EDE3E4D4}|Server\\Server.csproj|I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\server\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9620339-D32C-4262-8E2C-4470EDE3E4D4}|Server\\Server.csproj|solutionrelative:server\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9620339-D32C-4262-8E2C-4470EDE3E4D4}|Server\\Server.csproj|I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9620339-D32C-4262-8E2C-4470EDE3E4D4}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9620339-D32C-4262-8E2C-4470EDE3E4D4}|Server\\Server.csproj|I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B9620339-D32C-4262-8E2C-4470EDE3E4D4}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89474EEE-27EE-4404-953B-B7981F495DCC}|Client_\\Client_.csproj|I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\client_\\client_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89474EEE-27EE-4404-953B-B7981F495DCC}|Client_\\Client_.csproj|solutionrelative:client_\\client_.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Server\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\Server.Designer.cs",
+              "ToolTip": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Server\\Server.Designer.cs*",
+              "RelativeToolTip": "Server\\Server.Designer.cs*",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAmwKkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:47:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Server\\Server.cs*",
+              "RelativeToolTip": "Server\\Server.cs*",
+              "ViewState": "AQIAAC0AAAAAAAAAAAD4vz8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:38:44.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Server\\Server.cs [Design]*",
+              "RelativeToolTip": "Server\\Server.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:38:38.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client_.cs [Design]",
+              "DocumentMoniker": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Client_\\Client_.cs",
+              "RelativeDocumentMoniker": "Client_\\Client_.cs",
+              "ToolTip": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Client_\\Client_.cs [Design]",
+              "RelativeToolTip": "Client_\\Client_.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:32:49.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client_.cs",
+              "DocumentMoniker": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Client_\\Client_.cs",
+              "RelativeDocumentMoniker": "Client_\\Client_.cs",
+              "ToolTip": "I:\\L\u1EADp Tr\u00ECnh M\u1EA1ng\\Th\u1EF1c h\u00E0nh\\NT106.O22_Group17\\TCP_Multichat\\Client_\\Client_.cs*",
+              "RelativeToolTip": "Client_\\Client_.cs*",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAqwJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:32:52.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
